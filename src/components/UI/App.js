@@ -1,5 +1,5 @@
 
-import ExpenseItem from "./components/ExpenseItems";
+import ExpenseItem from "./components/Expenses/ExpenseItems";
 
 
 const expenses = [
